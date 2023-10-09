@@ -3,6 +3,17 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
+  - source: /css/
+    destination: /var/www/html/css/
+  - source: /images/
+    destination: /var/www/html/images/
+  - source: /fonts/
+    destination: /var/www/html/fonts/
+  - source: /admin/
+    destination: /var/www/html/admin/
+  - source: /js/
+    destination: /var/www/html/js/  
+    
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
@@ -15,4 +26,3 @@ hooks:
     - location: scripts/stop_server
       timeout: 300
       runas: root
-
