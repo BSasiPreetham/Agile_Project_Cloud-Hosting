@@ -51,7 +51,7 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="bottom">  <h3><a href="../index.php">SUN RISE HOMEPAGE</a></h3></div>
+    <div class="bottom">  <h3><a href="http://35.173.179.13/">SKY LIGHT HOMEPAGE</a></h3></div>
   
   
 </body>
