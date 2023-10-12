@@ -256,7 +256,7 @@ tr:hover .cut { opacity: 1; }
 			<h1>Invoice</h1>
 			<address >
 				<p>SKY LIGHT HOTEL,</p>
-				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
+				<p>Vijaywada, <br>Andhra Pradesh,<br>India.</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>
