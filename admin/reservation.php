@@ -108,7 +108,7 @@ include('db.php')
 								</div>
 								<div class="form-group">
                                             <label>Phone Number</label>
-                                            <input name="phone" type ="tel" class="form-control" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required>
+                                            <input name="phone" type ="tel" class="form-control" pattern="[0-9]{10}" required>
                                             
                                </div>
 							   
